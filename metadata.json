@@ -1,0 +1,6 @@
+{
+  "name": "OmniStream - Universal Video Player & Downloader",
+  "description": "Universal video stream player and downloader supporting HLS m3u8, MP4, WebM, DASH, YouTube, DRM stream inspection, and real-time stream recording.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
